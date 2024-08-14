@@ -1,6 +1,18 @@
 
 # hello.py
 def greet():
-    print("Hello, GTI!")
+    nmflkmdsknfpdsgfjrsgrspogj
     print(3+5)     
     ffffffffff
+    
+
+
+    gglrsgjfsg
+
+
+    dsmmgflkdsngfds
+
+    sd;flkmdsnglksn
+
+
+
