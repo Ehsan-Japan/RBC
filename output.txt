@@ -1,0 +1,8 @@
+total 0
+drwxrwxrwx 1 ehsan ehsan 4096 Aug 14  2024 .
+drwxrwxrwx 1 ehsan ehsan 4096 Aug 14 05:22 ..
+drwxrwxrwx 1 ehsan ehsan 4096 Aug 14 12:20 .git
+-rwxrwxrwx 1 ehsan ehsan   55 Aug 14 05:22 README.md
+-rwxrwxrwx 1 ehsan ehsan   76 Aug 14 11:36 buzz.py
+-rwxrwxrwx 1 ehsan ehsan  127 Aug 14 09:01 hello.py
+-rwxrwxrwx 1 ehsan ehsan    0 Aug 14  2024 output.txt
